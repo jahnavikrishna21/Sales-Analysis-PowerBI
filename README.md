@@ -1,21 +1,40 @@
 # Sales Analysis Dashboard (Power BI)
 
-## 📊 Project Overview
-This project analyzes sales data using Power BI.
+## Project Overview
+This project analyzes sales data using SQL and Power BI to identify business insights such as top-performing regions, cities, and categories.
 
-## 🔹 Tools Used
+## Tools Used
 - Power BI
 - MySQL
+- SQL
 - CSV Dataset
 
-## 🔹 Key Insights
-- Top 5 Cities by Sales
-- Sales by Category
-- Regional Sales Analysis
+## Dataset
+The dataset contains sales transactions including:
+- Order ID
+- City
+- Region
+- Category
+- Sales
 
-## 📁 Files Included
+## Key Insights
+- Top 5 Cities by Sales
+- Sales by Region
+- Sales by Category
+- Total Sales Overview
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## SQL Queries
+The following SQL queries were used for analysis:
+- Total number of records
+- Total sales
+- Sales by region
+- Top 5 cities by sales
+
+## Files in this Repository
 - Sales_Dashboard.pbix
 - train.csv
-
-## 👩‍💻 Created by
-Gogineni Jahnavi Krishna
+- sales_analysis_queries.sql
+- dashboard.png
