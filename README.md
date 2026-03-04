@@ -24,7 +24,8 @@ The dataset contains sales transactions including:
 - Total Sales Overview
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+
+![Sales Dashboard](sales_dashboard.png)
 
 ## SQL Queries
 The following SQL queries were used for analysis:
@@ -37,4 +38,4 @@ The following SQL queries were used for analysis:
 - Sales_Dashboard.pbix
 - train.csv
 - sales_analysis_queries.sql
-- dashboard.png
+- sales_dashboard.png
