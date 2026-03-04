@@ -36,6 +36,6 @@ The following SQL queries were used for analysis:
 
 ## Files in this Repository
 - Sales_Dashboard.pbix
-- train.csv
+- sales_data.csv
 - sales_analysis_queries.sql
 - sales_dashboard.png
