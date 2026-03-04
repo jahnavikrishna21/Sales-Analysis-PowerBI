@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard (Power BI)
+# Sales Performance Dashboard using SQL and Power BI
 This project demonstrates an end-to-end data analysis workflow using SQL and Power BI to generate business insights from sales data.
 ## Project Overview
 This project analyzes sales data to identify key trends such as top-performing regions, cities, and product categories.
@@ -28,10 +28,14 @@ The dataset contains sales transaction data  including:
 The Power BI dashboard includes:
 
 - Total Sales KPI
+- Total Orders KPI
+- Total Customers KPI
+- Sales Trend Over Time (Line Chart)
 - Sales by Region (Bar Chart)
 - Sales by Category (Donut Chart)
 - Top 5 Cities by Sales
-- Interactive filtering and data exploration
+- Region Filter for interactive analysis and data exploration
+ 
 
 ##  Key Insights
 
@@ -48,10 +52,10 @@ These insights help businesses identify high-performing regions and optimize  th
 
 ## SQL Queries
 The following SQL queries were used for analysis:
-- Total number of records
-- Total sales
-- Sales by region
-- Top 5 cities by sales
+1. Total number of records in the dataset
+2. Total sales calculation
+3. Sales distribution by region
+4. Top 5 cities generating the highest sales
 
 ## Files in this Repository
 - Sales_Dashboard.pbix
